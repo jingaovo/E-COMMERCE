@@ -12,7 +12,7 @@ This e-commerce project is an Angular-based web application designed to showcase
 Note: Since a mock backend API is used(Mockoon), related requests will be sent when related action is done(eg: checkout), but it will not be reflected in frontend page
 
 ## Technology Stack
-- **Frontend:** Angular, Angular Material
+- **Frontend:** Angular, Angular Material, CSS
 - **Backend:** Mockoon for mocking backend services
 - **Testing:** Jasmine and Karma for unit testing
 
